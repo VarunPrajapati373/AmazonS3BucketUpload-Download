@@ -1,0 +1,11 @@
+server:
+  port: 9090
+  
+#AWS Credentials
+aws:
+  accessKey: "*******"
+  secretKey: "*******"
+  region:  ap-northeast-1
+  s3:
+    bucket: preseigneds3test
+  
